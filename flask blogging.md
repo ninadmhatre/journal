@@ -24,13 +24,15 @@ want to change the Flask-Blogging code to add this decorator this will make me c
 
 Then i clicked to check if i can inherit the main class and orverload the method which is checking for permissions and provide my implementation, but code was not in class and just python file with other useful functions. What if i import that file seperately and change the implemetation with my one? Sounds like a good thing, 
 
-    @Util.roles_required('admin')
-    @login_required
+```python
+@Util.roles_required('admin')
+@login_required
     def custom_is_blogger(*args):    
       return current_user.get_id() in ('xyz')
        
     # changing the implementation of the is_blogger in views.py
     views._is_blogger = custom_is_blogger
-    
+ ```
+ 
  And i am done!  (roles_required is copied from the snippet mentioned above)
        
