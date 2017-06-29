@@ -1,7 +1,7 @@
 # IDEs, Editors & Other things
 
-In ~11 years of my software career i have bunch of IDEs and editors, some of them make you fall in love with them and 
-some you hate to the core sometimes it's only becuase it's NOT your favorite editor :)
+In ~11 years of my software career i have used bunch of IDEs and editors, some of them make you fall in love with them and 
+some you hate to the core, sometimes it's only becuase it's NOT your favorite editor :)
 
 I started my first job with Unix (HP/AIX/Solaris) and this was the first time i moved away from GUI based OS to fully CLI based OS. 
 And as a newbie, i used to open all files in "vi" editor and mess up the file everytime I had to move to up/down/left/right 
@@ -13,7 +13,7 @@ There is long battle between which is better Vim or Emacs? I am not going to sta
 have plans to do so in future. One thing i never did it with Vim is use it as an IDE. When i started using it, it was only for 
 editing files, writting shell scripts and write small Perl script. So i never needed the auto-complete logic for this job. 
 but soon as code started to grow big i learned that i need an IDE and Vim *may* support this but its not my choice of tool for this.
-This is when i was working fully on Perl, First thing that i found was Komodo IDE from Active State. It was good but i my code never 
+This is when i was working fully on Perl, First thing that i found was Komodo IDE from Active State. It was good but my code never 
 went beyond 3-4 files (*i was more into writing monolithic applications*). This was back in 2008. 
 
 I moved to my new job where I first time had to work with hundreds of files and it was fully on Linux without GUI. So no chance
