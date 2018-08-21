@@ -1,4 +1,5 @@
 # IDEs, Editors & Other things
+#### published on: 27/Jun/2017
 
 In ~11 years of my software career i have used bunch of IDEs and editors, some of them make you fall in love with them and 
 some you hate to the core, sometimes it's only becuase it's NOT your favorite editor :)
@@ -46,3 +47,5 @@ it full time on my Laptop. It lacks some of the great features for PyCharm but i
 Python plugin is great. Now i am thinking if i should switch to VS Code full time and stop comparing it with PyCharm.
 
 *if you are thinking what kind of Laptop is not capable of running OS & 1 IDE, so i have few apps running MongoDB, Redis, RabbitMQ, Robomongo, Chrome with at least 3 tabs open*
+
+[Back](index.md)
