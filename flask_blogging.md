@@ -1,4 +1,5 @@
 # Flask Blogging Permissioning
+#### published on: 10/Feb/2018
 
 I am very big fan of Flask framework, there are no restrictions just few guidelines on how to setup the 
 app and there are tons of extensions to add more functionality. I like that.
@@ -35,7 +36,8 @@ Then i clicked to check if i can inherit the main class and orverload the method
  ```
  
  And i am done!  (roles_required is copied from the snippet mentioned above)
-       
+    
+[Back](index.md)
 <!---
 Meta: 123
 --->
