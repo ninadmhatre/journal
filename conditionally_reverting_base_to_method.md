@@ -1,4 +1,5 @@
 # Calling base implemtation of overridden method
+#### published on: 13/Aug/2018
 
 Have you ever faced a situation where you want to alter the behaviour of method in a such a way that it's same as parent implementation?
 
@@ -37,3 +38,5 @@ for i in range(5):
 ```
 
 There is nothing fancy about above code but calling Base implementation with `super()` in Python made is super simple :) Honestly, i dont know how i would have got the exepected result without use of `super()`
+
+[Back](index.md)
