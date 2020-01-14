@@ -2,10 +2,20 @@
 
 ## Posts
 
-* [IDE's & Editors](ides_n_editors.md) - Thought on IDE's and editors for Python & editors on Linux
-* [Flask Blogging With Permissions](flask_blogging.md) - Add custom, minimal access control to Flask blogging (not using Flask Principal)
-* [Calling overridden method's base implementation](conditionally_reverting_base_to_method.md) - Why? Because base class behaviour is valid negative test case!
-* [Logging Config in python](logger_config_in_python.md) - Catch with multiple logging config in python project
+1. [Love the coding; not the language](do_not_love_language.md)
+My experience with sticking with one programming language coz you love it! Don't do it!
+&nbsp;
+1. [IDE's & Editors](ides_n_editors.md) 
+Thought on IDE's and editors for Python & editors on Linux
+&nbsp;
+1. [Flask Blogging With Permissions](flask_blogging.md)
+Add custom, minimal access control to Flask blogging (not using Flask Principal)
+&nbsp;
+1. [Calling overridden method's base implementation](conditionally_reverting_base_to_method.md)
+Why? Because base class behaviour is valid negative test case!
+&nbsp;
+1. [Logging Config in python](logger_config_in_python.md)
+Catch with multiple logging config in python project
 
 ## About Me
 
