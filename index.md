@@ -2,6 +2,9 @@
 
 ## Posts
 
+1. [My method of guiding new joiners](guidance.md)
+My thoughts about how to guide new joiners in the team, i would like them to struggle a bit.
+&nbsp;
 1. [Love the coding; not the language](do_not_love_language.md)
 My experience with sticking with one programming language coz you love it! Don't do it!
 &nbsp;
